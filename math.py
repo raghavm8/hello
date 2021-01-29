@@ -13,7 +13,7 @@ def subtract(x,y):
 def multiply(x,y):
     return x*y
 def divide(x,y):
-    pass
+    return x/y
 if __name__ == '__main__':
     print(foo(3, 4))
     print(foo(7, 9))
